@@ -14,7 +14,7 @@
           <th>部署名</th>
           <th>親部署</th>
           <th>責任者</th>
-          <th />
+          <th>操作</th>
         </tr>
       </thead>
       <tbody>
